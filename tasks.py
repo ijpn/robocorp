@@ -15,7 +15,7 @@ def order_robots_from_RobotSpareBin():
     Embeds the screenshot of the robot to the PDF receipt.
     Creates ZIP archive of the receipts and the images.
 
-    By Yasuke Software (Ivan José Peraza Navarro)
+    By Yasuke Software (Ivan José Peraza Navarro) 2024.03.12
 
     """
 
